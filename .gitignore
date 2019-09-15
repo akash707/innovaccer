@@ -1,0 +1,4 @@
+.history/
+.vscode/
+# ignoring the virtual environment folder
+innovaccer/
